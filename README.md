@@ -2,6 +2,7 @@
 
 The board.py file translates 
 
+  |-----------------|
   |0|8|0|7|0|6|0|0|0|
   |-----------------|
   |4|6|7|0|0|9|0|0|0|
@@ -19,6 +20,7 @@ The board.py file translates
   |0|2|9|0|7|0|0|0|0|
   |-----------------|
   |0|0|0|3|5|0|0|0|6|
+  |-----------------|
   
 into a dictionary and a set of constriants.
 
