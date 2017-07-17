@@ -69,7 +69,7 @@ def backTrack(variablesDomainDict, assignment, sample_board):
 
 def main():
     sample_board = Board(
-        "080706000467009000000000040004097000701000084090000020000002000029070000000350006")
+        "080706000467009800000000040004097000701000084090000020000002000029070000000350006")
     answer = backTrack_search(sample_board)
     output_board = ''
     for i in range(9):
