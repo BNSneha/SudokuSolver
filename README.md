@@ -22,6 +22,17 @@ The board.py file translates
   |0|0|0|3|5|0|0|0|6|
   |-----------------|
   
+|   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+  
 into a dictionary and a set of constriants.
 
 ac3 (arc consistency) is implemented to show how not all sudoku boards can be solved using ac3 alone.
