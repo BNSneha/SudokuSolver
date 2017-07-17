@@ -12,7 +12,7 @@ The board.py file translates
   000350006
 into a dictionary and a set of constriants.
 
-ac3 (arc consistency) is implemented to show how not all sudoku boards can be solved using just ac3 alone.
+ac3 (arc consistency) is implemented to show how not all sudoku boards can be solved using ac3 alone.
 
-Backtracking search with heursitics like forward checking and minimum remaining value can solve any puzzle, faster.
+backtracking search with heursitics like forward checking and minimum remaining value can solve any puzzle, faster.
   
